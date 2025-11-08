@@ -46,6 +46,10 @@ Ada designs a flyer for Chidi’s small business.*
 Chidi helps Ada improve her public-speaking skills.  
 Both mark the trade as complete — no money exchanged.
 
+Contributing
+1. Fork this repository  
+2. Create a new branch (`feature/your-feature-name`)  
+3. Submit a pull request 
 
 
  
