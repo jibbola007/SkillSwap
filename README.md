@@ -40,6 +40,12 @@ Technologies
 -Real-time Chat: Socket.io  
 -Hosting: Vercel (frontend) & Render (backend)
 
+Example Use Case
+
+Ada designs a flyer for Chidi’s small business.*  
+Chidi helps Ada improve her public-speaking skills.  
+Both mark the trade as complete — no money exchanged.
+
 
 
  
