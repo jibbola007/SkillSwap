@@ -70,3 +70,14 @@ Future Improvements
 -Integrate in-app wallet (for optional paid services)  
 -Recommendation engine using collaborative filtering  
 -Mobile app version (React Native)
+
+Database Layer
+
+Database: MongoDB Atlas  
+Collections:
+-`users` → name, bio, skills_offered[], skills_needed[]  
+-`offers` → senderId, receiverId, status (pending/accepted/completed)  
+-`messages` → chatId, senderId, text, timestamp  
+-`ratings` → userId, raterId, score, comment  
+
+Indexes added for quick skill-based lookups.
